@@ -2,7 +2,7 @@ If u want to watch this. U must install android studio, node.js, python3, jdk, t
 
 1. npm install
 
-2. npm start --->load to android studio 
+2. npm start --->load to android studio(.then build the Andorid App 1st) 
 
 3. npm run android
  
