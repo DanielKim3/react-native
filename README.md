@@ -16,3 +16,5 @@ If u want to watch this. U must install android studio, node.js, python3, jdk, t
  
 8. Next time I'll bring node.js. coming...soon.
 
+9. 자 러 간 다..
+
