@@ -7,5 +7,5 @@ If u want to watch this. U must install android studio, node.js, python3, jdk, t
 5. I hate ios logic
 6. android Chae - go.
 7. use in Intelli J IDEA
-8. node.js coming...soon
+8. node.js coming...soon.
 
