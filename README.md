@@ -5,4 +5,4 @@ If u want to watch this. U must install android studio, node.js, python3, jdk, t
 3. npm run android,
 4. have fun
 5. I hate ios logic
-6. android Chae - go
+6. android Chae - go.
